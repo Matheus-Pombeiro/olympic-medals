@@ -1,16 +1,18 @@
-<h1>Olympic Medals</h1> 
+<head>
+  <style>
+    img {
+      margin: 0 auto;  
+    }
+    
+    p {
+      align: justify;
+      text-indent: 1.5rem;
+      text-wrap: wrap;
+    }
+  </style>
+</head>
 
-<style>
-  img {
-    margin: 0 auto;  
-  }
-  
-  p {
-    align: justify;
-    text-indent: 1.5rem;
-    text-wrap: wrap;
-  }
-</style>
+<h1>Olympic Medals</h1> 
 
 <h2>1. About</h2> 
 
