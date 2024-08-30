@@ -29,3 +29,17 @@
 
 <p align="justify">The mean of the total medals was considerably lower than the total medals of the first place (USA) that won one hundred and twenty-six (126) medals and the second place (China) that won ninety-one (91) medals and was more than eleven times bigger than the total medals won by the last place (Zambia) that won one (1) medal. And because of that in this case the mean may not be a trust indicative.</p>
 
+### 2.2 Median
+
+<p align="justify">Next it’s possible to see the median of each kind of medal (gold, silver and bronze) and even the total medals:</p>
+
+<ul>
+  <li>Gold: 1.0</li>
+  <li>Silver: 1.0</li>
+  <li>Bronze: 2.0</li>
+  <li>Total medals: 5.0</li>
+</ul>
+
+<p align="justify">Looking at the medians it’s possible to see that the gold and silver medals reached the same value and were lower than bronze value. The median of bronze medals were two times bigger than the median of gold and silver medals, and this can indicate that the number of bronze medals won individually by most countries was bigger than the gold and silver medals.</p>
+
+<p align="justify">The median of the total medals won was more than two times bigger than the bronze medals and five times bigger than the gold and silver medals, and it was bigger than the sum of the median of the gold, silver and bronze medals. This can testify that every country in the dataset won at least one medal, but there were some countries that didn’t win any gold, silver or bronze medal. For example, the nineteenth place (Ireland) didn’t win any silver medal, but it won four (4) gold medals and three (3) bronze medals.</p>
