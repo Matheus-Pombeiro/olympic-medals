@@ -100,3 +100,19 @@
 </div>
 <br>
 <p align="justify">Through the pie totals medals chart, that shows the percentage of each kind of medals (gold, silver and bronze) won by the countries in the Olympics 2024, it’s possible to see that thirty-one point six percent (31.6%) of the medals won was gold medals, thirty-one point five percent (31.5%) was silver medals and thirty-seven was bronze medals. This means that there were more athletes that won bronze medals than the other medals.</p>
+
+#### 2.4.5 First and Last Place Medals
+
+<p align="justify">Next there is a description and an analysis about the first (USA) and last (Zambia) place performances. Through the dataset it’s possible to see that the USA performance was considerably better than the other countries. It won forty (40) gold medals, forty-four (44) silver medals, forty-two (42) bronze medals and the total medals is one hundred and twenty-six (126) medals.</p>
+
+<div align="center">
+  <img src="assets/first-place-pie.png" alt="First place pie chart"/>
+</div>
+<br>
+<p align="justify">Zambia had a not so good performance as the USA. It won just one (1) bronze medal.</p>
+
+<div align="center">
+  <img src="assets/last-place-pie.png" alt="Last place pie chart"/>
+</div>
+<br>
+<p align="justify">There is an extreme difference between the performance of these two countries in the Olympics 2024. Why? Probably the USA spent more resources (money in general) on their athletes. Possibly they received more incentive from the USA government, companies and people than Zambia athletes, which must have helped them to get better results. Of course, there might be other variables for this huge difference, but in this case a deeper research should be applied.</p>
