@@ -43,3 +43,22 @@
 <p align="justify">Looking at the medians it’s possible to see that the gold and silver medals reached the same value and were lower than bronze value. The median of bronze medals were two times bigger than the median of gold and silver medals, and this can indicate that the number of bronze medals won individually by most countries was bigger than the gold and silver medals.</p>
 
 <p align="justify">The median of the total medals won was more than two times bigger than the bronze medals and five times bigger than the gold and silver medals, and it was bigger than the sum of the median of the gold, silver and bronze medals. This can testify that every country in the dataset won at least one medal, but there were some countries that didn’t win any gold, silver or bronze medal. For example, the nineteenth place (Ireland) didn’t win any silver medal, but it won four (4) gold medals and three (3) bronze medals.</p>
+
+### 2.3 Standard Deviation
+
+<p align="justify">Next it’s possible to see the standard deviation of each kind of medal (gold, silver and bronze) and even the total medals:</p>
+
+<ul>
+  <li>Gold: 7.0</li>
+  <li>Silver: 6.7</li>
+  <li>Bronze: 6.5</li>
+  <li>Total medals: 19.6</li>
+</ul>
+
+<p align="justify">Looking at the values of standard deviation it’s possible to realize that the first placed countries won considerably more medals than the last placed. The standard deviation of total medals was high and it can show an inequality of competitive power among the countries.</p>
+
+### 2.4 Charts
+
+<p align="justify">Next it’s possible to see the charts of each kind of medal (gold, silver and bronze) and even the total medals. After each chart there is an analysis about it.</p>
+
+#### 2.4.1 Gold Medals Chart
