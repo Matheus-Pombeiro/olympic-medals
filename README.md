@@ -62,3 +62,12 @@
 <p align="justify">Next it’s possible to see the charts of each kind of medal (gold, silver and bronze) and even the total medals. After each chart there is an analysis about it.</p>
 
 #### 2.4.1 Gold Medals Chart
+
+<div align="center">
+  <img src="assets/gold-medals-bar.png" alt="Gold medals chart"/>
+</div>
+<br>
+
+<p align="justify">Through the gold medals chart it’s possible to see that most countries didn’t win any gold medal, and there is a decline in the number won by each country. There is a jump from twenty (20) medals won to forty and it’s possible to see that the number of countries that won fifteen (15) medals or more was considerably lower than the other countries.</p>
+
+<p align="justify">This can indicate an inequality of competitive power among the countries again and possibly a lower investment in sports by the governments and maybe by the companies responsible for those countries who won a lower number of gold medals. So, it can be better for companies to invest in athletes that won a bigger number of gold medals, specially those who compete for countries where there is a good sports culture between the population. For example, there are some countries, like Brazil, where soccer receives more attention than other modalities, like winter sports.</p>
