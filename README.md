@@ -64,10 +64,39 @@
 #### 2.4.1 Gold Medals Chart
 
 <div align="center">
-  <img src="assets/gold-medals-bar.png" alt="Gold medals chart"/>
+  <img src="assets/gold-medals-bar.png" alt="Gold medals bar chart"/>
 </div>
 <br>
-
 <p align="justify">Through the gold medals chart it’s possible to see that most countries didn’t win any gold medal, and there is a decline in the number won by each country. There is a jump from twenty (20) medals won to forty and it’s possible to see that the number of countries that won fifteen (15) medals or more was considerably lower than the other countries.</p>
 
 <p align="justify">This can indicate an inequality of competitive power among the countries again and possibly a lower investment in sports by the governments and maybe by the companies responsible for those countries who won a lower number of gold medals. So, it can be better for companies to invest in athletes that won a bigger number of gold medals, specially those who compete for countries where there is a good sports culture between the population. For example, there are some countries, like Brazil, where soccer receives more attention than other modalities, like winter sports.</p>
+
+#### 2.4.2 Silver Medals Chart
+
+<div align="center">
+  <img src="assets/silver-medals-bar.png" alt="Silver medals bar chart"/>
+</div>
+<br>
+<p align="justify">Through the silver medals chart it’s possible to see that again the most countries didn’t win any silver medal and up to the mark of ten (10) medals won there is a decline, but after that there is a variation, even that the number of countries that won more than it was below than twenty (20). This variation can testify that the main purpose between the athletes in Olympics is to win a gold medal, but sometimes the difference of preparation between them can be big and some countries, like the USA that won forty-four silver medals, can reach better results.</p>
+
+#### 2.4.3 Bronze Medals Chart
+
+<div align="center">
+  <img src="assets/bronze-medals-bar.png" alt="Bronze medals bar chart"/>
+</div>
+<br>
+<p align="justify">Through the bronze medals chart it’s possible to see that, differently from the charts of gold and silver medals, most countries won from one (1) to three (3) medals, and the variation was smoother. This variation can indicate that the distribution of medals won among the countries was more egalitarian when talking about bronze medals, which is the lowest prize in an Olympic contest and again testifying the inequality of competitive power among the countries.</p>
+
+#### 2.4.4 Total Medals Charts
+
+<div align="center">
+  <img src="assets/total-medals-bar.png" alt="Total medals bar chart"/>
+</div>
+<br>
+<p align="justify">Through the bar total medals chart it’s possible to see that every country in the dataset won at least one (1) medal and there is a decline of medals won, which has a kind of variation through the chart. The highest concentration is between one (1) medal and twenty (20) medals won, from this point there is a smaller number of countries.</p>
+
+<div align="center">
+  <img src="assets/total-medals-pie.png" alt="Total medals pie chart"/>
+</div>
+<br>
+<p align="justify">Through the pie totals medals chart, that shows the percentage of each kind of medals (gold, silver and bronze) won by the countries in the Olympics 2024, it’s possible to see that thirty-one point six percent (31.6%) of the medals won was gold medals, thirty-one point five percent (31.5%) was silver medals and thirty-seven was bronze medals. This means that there were more athletes that won bronze medals than the other medals.</p>
