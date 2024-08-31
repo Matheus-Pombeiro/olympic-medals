@@ -23,7 +23,7 @@
   <li>Total medals: 11.4</li>
 </ul>
 
-<p align="justify">Looking at the means it’s possible to see that the gold and silver means were lower than the bronze mean. The number of countries that attended the Olympics 2024 and won at least one medal was eighty-four (84), so this can indicate that the sum of the bronze medals was bigger than the gold and silver medals.</p>
+<p align="justify">Looking at the means it’s possible to see that the gold and silver means were lower than the bronze mean. The number of countries that attended the Olympics 2024 and won at least one medal was ninety-one (91), so this can indicate that the sum of the bronze medals was bigger than the gold and silver medals.</p>
 
 <p align="justify">The mean of the total medals was considerably lower than the total medals of the first place (USA) that won one hundred and twenty-six (126) medals and the second place (China) that won ninety-one (91) medals and was more than eleven times bigger than the total medals won by the last place (Zambia) that won one (1) medal. And because of that in this case the mean may not be a trust indicative.</p>
 
