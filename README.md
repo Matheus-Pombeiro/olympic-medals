@@ -10,7 +10,7 @@
 
 # 2. NumPy and Matplotlib Analysis
 
-<p align="justify">To analyze the Olympic Medals dataset first the medals were organized in gold, silver, bronze and total medals. After that, the mean, median and standard deviation of each part of the dataset were calculated. Then, bar and pie charts were made to demonstrate and visualize the distribution of data.</p>
+<p align="justify">To analyze the Olympic Medals dataset using NumPy and Matplotlib first the medals were organized in gold, silver, bronze and total medals. After that, the mean, median and standard deviation of each part of the dataset were calculated. Then, bar and pie charts were made to demonstrate and visualize the distribution of data.</p>
 
 ## 2.1 Mean
 
