@@ -114,3 +114,69 @@
 </div>
 <br>
 <p align="justify">There is an extreme difference between the performance of these two countries in the Olympics 2024. Why? Probably the USA spent more resources (money in general) on their athletes. Possibly they received more incentive from the USA government, companies and people than Zambia athletes, which must have helped them to get better results. Of course, there might be other variables for this huge difference, but in this case a deeper research should be applied.</p>
+
+# 3. Pandas Analysis
+
+<p align="justify">Using Pandas, it was focused on analyzing the first placed countries in the Olympic Medals dataset and their achievements in the Olympics 2024. First it was found the five first placed countries and their medals. It’s possible to see them next.</p>
+
+<div align="center">
+  <img src="assets/top-five-countries.png" alt="Top five countries"/>
+</div>
+<br>
+<p align="justify">However, analyzing the dataset it’s possible to realize that not always the countries who are in the top positions in the rank had the better achievements. This difference among them will be analyzed next.</p>
+
+## 3.1 First Placed Countries Medals
+
+<p align="justify">Through the following chart it’s possible to see the five first placed countries in this Olympics edition. To rank the countries, the Olympics committee used the number of gold medals that each country won. So, it doesn’t necessarily mean the countries who won more silver, bronze and total medals have better positions in the rank.</p>
+
+<div align="center">
+  <img src="assets/first-placed-countries-medals.png" alt="First placed countries medals chart"/>
+</div>
+<br>
+<p align="justify">In this edition, the first place (USA) won more medals than the other countries, but the fifth place (France), which won less gold medals than Japan and Australia, won considerably more silver, bronze and total medals than them. This can indicate that France athletes from different modalities receive more resources than Japan and Australia athletes in general, because France athletes have a stronger presence on the podiums.</p>
+
+## 3.2 Best Achievements by Silver Medals
+
+<p align="justify">Next, it’s possible to realize that the countries who achieved better results in silver medals aren’t necessarily in the top five. The chart contains the only four countries that won more than twenty silver medals in this Olympic edition.</p>
+
+<div align="center">
+  <img src="assets/best-achievements-by-silver-medals.png" alt="Best achievements by silver medals chart"/>
+</div>
+<br>
+<p align="justify">The seventh place (Great Britain) won more silver medals than Japan and Australia, which are at least three positions above it in the rank. There is a balance among China, France and Great Britain, which won less than thirty silver medals each, but The USA won more than forty silver medals, which is around double than them. Once again, the USA shows an aggressive competitive power.</p>
+
+## 3.3 Best Achievements by Bronze Medals
+
+<p align="justify">Through the following chart it’s possible to see the best results in terms of bronze medals won. Like what happened with silver medals, just four countries won more than twenty bronze medals, but, at this time, the rank had a more significant difference about the countries who are placed in the top positions.</p>
+
+<div align="center">
+  <img src="assets/best-achievements-by-bronze-medals.png" alt="Best achievements by bronze medals chart"/>
+</div>
+<br>
+<p align="justify">The USA keeps in first place and it’s possible to see that it won around double of bronze medals than France. But the most interesting aspect shown in this chart is that Great Britain, who is in seventh place in the original rank, won more bronze medals even than China, who is in second place in the original rank. But why? Probably because the Chinese athletes had a better performance winning more gold medals than the Great Britain ones. And this can indicate a stronger competitive power and more resources invested by the Chinese government and companies on their athletes than the most other countries.</p>
+
+<p align="justify">Even so, France and Great Britain won more silver, bronze and total medals than Japan, Australia and the Netherlands (which is in sixth place, one position above Great Britain). This indicates that they had a better performance in general than the most other countries.</p>
+
+## 3.4 Best Achievements by Total Medals
+
+<p align="justify">In the Olympics 2024 just five countries won fifty medals or more. Although, there is a hard difference in terms of number among them. The USA keeps in first place with the most medals, followed by China, but the intriguing thing is that the third place in the next chart belongs to Great Britain, who are in the seventh place in the original rank.</p>
+
+<div align="center">
+  <img src="assets/best-achievements-by-total-medals.png" alt="Best achievements by total medals chart"/>
+</div>
+<br>
+<p align="justify">Through the chart it’s possible to see that France won more medals than Australia and even Japan, which doesn’t even appear in the graph because it won less than fifty medals. Once again, the USA had the best performance, winning twice as many medals as Australia, and there is a strong difference between the USA and China, which shows a significant presence on podiums of the USA athletes than athletes from other countries.</p>
+
+# 4. Final Conclusion
+
+<p align="justify">Throughout this project it was made an exploration and analysis about the better and even worst performances of the countries in the Olympics 2024. NumPy, Matplotlib and Pandas were used to do that.</p>
+
+<p align="justify">Through the graphs it’s possible to realize that some countries had better results than others. Which indicates that their governments and companies may have invested more on their athletes and supported them. Culture, politics and economy can influence that.</p>
+
+<p align="justify">Finally, if a company wants to support an athlete or an entire team it should research how this person or these people are seen by their compatriots, government and even by people from other countries, because the Olympics is a global sports event. For example, if an athlete has the habit of being rude in the media with their fans it can convey a bad message in the company’s image.</p>
+
+<p align="right">Matheus V. G. Pombeiro</p>
+
+<p align="right">Data Science Student</p>
+
+<p align="right">September 16, 2024</p>
